@@ -8,6 +8,7 @@
 
 1. Clone this repository 
 
+
 ```sh
 git clone https://github.com/simonaco/sticker-shop.git
 cd sticker-shop
