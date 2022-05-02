@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1651480169",layout:"default",error:a,serverRendered:true,routePath:b,config:{strapi:{url:"https:\u002F\u002Fstickershop.azurewebsites.net"},http:{browserBaseURL:b}},strapi:{user:a}}}(null,"\u002F"));
